@@ -1,0 +1,13 @@
+﻿<Application x:Class="Snake.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="backroundColor">#211E2B</SolidColorBrush>
+        <SolidColorBrush x:Key="GridBackroundColor">#312C40</SolidColorBrush>
+        <SolidColorBrush x:Key="GridLineColor">#4f4867</SolidColorBrush>
+        <SolidColorBrush x:Key="TextColor">#d61539</SolidColorBrush>
+        <SolidColorBrush x:Key="OverlayColor">#FF6DB596</SolidColorBrush>
+        <FontFamily x:Key="MainFont">Assets/#PixeliFySans-VariableFont_wght</FontFamily>
+    </Application.Resources>
+</Application>
